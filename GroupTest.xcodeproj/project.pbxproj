@@ -56,7 +56,7 @@
 		EE2BB87D2D8BE9FB009DA8CD /* GroupTest */ = {
 			isa = PBXGroup;
 			children = (
-				EE2BB8862D8BEAE1009DA8CD /* Norang1 */,
+				EE2BB8882D8BECD8009DA8CD /* Norang2 */,
 				EE2BB8742D8BE9FB009DA8CD /* AppDelegate.swift */,
 				EE2BB8752D8BE9FB009DA8CD /* Assets.xcassets */,
 				EE2BB8762D8BE9FB009DA8CD /* Info.plist */,
@@ -67,12 +67,12 @@
 			path = GroupTest;
 			sourceTree = "<group>";
 		};
-		EE2BB8862D8BEAE1009DA8CD /* Norang1 */ = {
+		EE2BB8882D8BECD8009DA8CD /* Norang2 */ = {
 			isa = PBXGroup;
 			children = (
 				EE2BB87C2D8BE9FB009DA8CD /* ViewController.swift */,
 			);
-			path = Norang1;
+			path = Norang2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
