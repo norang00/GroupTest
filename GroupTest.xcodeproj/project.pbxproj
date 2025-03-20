@@ -56,15 +56,23 @@
 		EE2BB87D2D8BE9FB009DA8CD /* GroupTest */ = {
 			isa = PBXGroup;
 			children = (
+				EE2BB8862D8BEAE1009DA8CD /* Norang1 */,
 				EE2BB8742D8BE9FB009DA8CD /* AppDelegate.swift */,
 				EE2BB8752D8BE9FB009DA8CD /* Assets.xcassets */,
 				EE2BB8762D8BE9FB009DA8CD /* Info.plist */,
 				EE2BB8782D8BE9FB009DA8CD /* LaunchScreen.storyboard */,
 				EE2BB87A2D8BE9FB009DA8CD /* Main.storyboard */,
 				EE2BB87B2D8BE9FB009DA8CD /* SceneDelegate.swift */,
-				EE2BB87C2D8BE9FB009DA8CD /* ViewController.swift */,
 			);
 			path = GroupTest;
+			sourceTree = "<group>";
+		};
+		EE2BB8862D8BEAE1009DA8CD /* Norang1 */ = {
+			isa = PBXGroup;
+			children = (
+				EE2BB87C2D8BE9FB009DA8CD /* ViewController.swift */,
+			);
+			path = Norang1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
